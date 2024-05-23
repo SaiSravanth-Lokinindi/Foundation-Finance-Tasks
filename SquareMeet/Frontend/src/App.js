@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import SquareMeetingSimulation from "./components/SquareMeetingSimulation copy";
+import SquareMeetingSimulation from "./components/SquareMeetingSimulation";
 
 const App = () => {
   const [side, setSide] = useState(500);
